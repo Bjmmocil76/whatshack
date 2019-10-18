@@ -1,2 +1,0 @@
-# whatshack
-git:whatshack
